@@ -17,7 +17,7 @@ def detect_game(video_path, model_path):
         print("Erro ao abrir o vídeo!")
         return
 
-    # Defina o novo tamanho desejado para a janela (exemplo: 640x360)
+    # tamanho desejado para a janela (exemplo: 640x360)
     window_width = 1000
     window_height = 600
 
