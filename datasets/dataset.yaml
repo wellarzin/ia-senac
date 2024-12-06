@@ -1,0 +1,6 @@
+path: C:/Users/Usuário/Desktop/ia-senac/datasets
+train: frames/train
+val: frames/val
+names:
+  0: League_of_Legends
+  1: Valorant
